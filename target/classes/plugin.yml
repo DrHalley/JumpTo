@@ -1,0 +1,10 @@
+name: JumpTo
+version: '0.0.1'
+main: com.drhalley.jumpto.JumpTo
+api-version: '1.16'
+extends:
+  config:
+commands:
+  add-location:
+  jumpto:
+  remove-location:

@@ -1,0 +1,10 @@
+name: JumpTo
+version: '${project.version}'
+main: com.drhalley.jumpto.JumpTo
+api-version: '1.16'
+extends:
+  config:
+commands:
+  add-location:
+  jumpto:
+  remove-location:

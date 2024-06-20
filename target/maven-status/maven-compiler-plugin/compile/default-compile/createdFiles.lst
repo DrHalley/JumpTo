@@ -1,0 +1,4 @@
+com\drhalley\jumpto\commands\AddLocation.class
+com\drhalley\jumpto\JumpTo.class
+com\drhalley\jumpto\commands\Jump.class
+com\drhalley\jumpto\commands\RemoveLocation.class
